@@ -1,0 +1,220 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.menu{
+    background-color: #40454b;
+    padding: 18px;
+    color: #ffffff;
+    border-radius: 3px;
+    right: 15px;
+    top: 15px;
+    position: fixed;
+    opacity: .7;
+}
+.menu2{
+    background-color: #40454b;
+    padding: 18px;
+    color: #ffffff;
+    border-radius: 3px;
+    right: 15px;
+    bottom: 15px;
+    position: fixed;
+    opacity: .7;
+}
+
+.menu:hover{
+    background-color: black;
+    cursor: pointer;
+}
+.menu2:hover{
+    background-color: black;
+    cursor: pointer;
+}
+
+.first{
+    background-image: url(https://technext.github.io/stylish-portfolio/img/bg-masthead.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 190px;
+}
+
+.first h1{
+    font-size: 88px;
+    color: #212529;
+}
+.first h3{
+    font-size: 28px;
+    margin-bottom: 62px;
+    color: #212529;
+}
+.first a{
+    background-color: #155d74;
+    padding: 20px 40px;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.second{
+    text-align: center;
+    padding: 140px;
+}
+.second h2{
+    color: #212529;
+    font-size: 32px;
+}
+.second p{
+    margin-top: 12px;
+    font-size: 20px;
+    color: #212529;
+    margin-bottom: 80px;
+}
+.second123 {
+    background-color: #343A40;
+    padding: 20px 40px;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.third{
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://technext.github.io/stylish-portfolio/img/bg-callout.jpg);
+    text-align: center;
+    padding: 220px;
+}
+
+.third h1{
+    font-size: 56px;
+    color: #212529;
+    margin-bottom: 35px;
+}
+.third a{
+    background-color: #155d74;
+    padding: 20px 40px;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+
+}
+
+.fourth{
+    background-position: center;
+    background-size: cover;
+    background-color: #1d809f;
+    padding: 150px;
+    text-align: center;
+}
+.fourth h1{
+    color: #FFFFFF;
+    margin-bottom: 34px;
+}
+.fourth123{
+    background-color: #FFFFFF;
+    padding: 20px 40px;
+    color: #212529;
+    text-decoration: none;
+    border-radius: 4px;
+}
+.fourth1234 {
+    background-color: #343A40;
+    padding: 20px 40px;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-left: 24px;
+    border-radius: 4px;
+}
+.thirdbetween {
+    background-color:#1D809F;
+    padding: 138px 0px 187px 0;
+}
+.thirdbetween .thirdbetweentext{
+    text-align: center;
+}
+.thirdbetweentext h3{
+    color: #ECB807;
+}
+.thirdbetweentext h2{
+    font-size: 48px
+}
+.thirdbetweenicon{
+    margin-top: 3rem;
+}
+.thirdicon{
+    float: left;
+    margin-left: 150px;
+    padding: 35px;
+    border-radius: 100%;
+    background-color: floralwhite;
+    color: black;
+    font-size: 30px;
+}
+ .forphone{
+    padding: 0px 5px;
+}
+.thirdtext{
+    float: left;
+    width: 25%;
+    color: #FFFFFF; 
+}
+.thirdtext h3,p{
+    margin-left: 12px;
+}
+.thirdall{
+    background-color: #1D809F;
+    padding:  18px 0px 187px 0 ;
+}
+.save{
+    float: left;
+    width: 25%;
+}
+.save i{
+    padding: 25px;
+    background-color: black;
+    color: blanchedalmond;
+    border-radius: 100%;
+    margin-left: 106px;
+}
+.save h2{
+    margin-left: 85px;
+}
+.save p{
+    margin-left: 48px;
+}
+.thirdtext123{
+    text-align: center;
+    margin-bottom: 79px;
+    margin-top: 34px;
+}
+.fifth .fifthtext{
+    text-align: center;
+}
+.fifth{
+    padding: 5rem 0;
+}
+.fifth .all{
+    width: 80%;
+    margin: 0 auto;
+}
+.fifth .box img{
+    width: 100%;
+    transition: .4s;
+}
+.fifth .box{
+    float: left;
+    width: 50%;
+    position: relative;
+}
+.fifth .box:hover img{
+    transform: scale(.8);
+    i
+}
+.fifth .box .boxtext{
+    position: absolute;
+    left: 45px;
+    bottom: 45px;
+    color: #FFFFFF;
+}
